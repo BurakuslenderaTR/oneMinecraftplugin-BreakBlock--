@@ -1,0 +1,4 @@
+name: Burakuslendera
+version: 1.0-SNAPSHOT
+main: me.burakuslenderanewbot.burakuslendera.Burakuslendera
+api-version: 1.16

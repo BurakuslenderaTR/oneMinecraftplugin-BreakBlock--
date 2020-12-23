@@ -1,0 +1,4 @@
+name: Burakuslendera
+version: ${project.version}
+main: me.burakuslenderanewbot.burakuslendera.Burakuslendera
+api-version: 1.16
